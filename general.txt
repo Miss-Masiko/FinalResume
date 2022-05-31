@@ -1,0 +1,20 @@
+1.Branding
+- Colours
+#007CED (blue)
+#417A77 (green)
+#EEE8A9 (unusualColor)
+
+2.Font 
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;800&display=swap" rel="stylesheet">
+
+font-family: 'Nunito Sans', sans-serif;
+
+Requirements
+
+- contact form
+- Social Media logo animations
+- grid layout
+- responsive design

@@ -1,0 +1,39 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+.nav-links li a {
+    text-decoration: none;
+    list-style: none;
+    padding: 16px;
+}
+.nav-links li{
+    display: inline;
+    list-style: none;
+}
+
+::placeholder {
+    color: #007CED;
+}
+button {
+    background-color: #007CED;
+}
+
+.Home-cont {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+.pict img{
+    width: 100%;
+}
+.quote p {
+    font-size: 80px;
+    color: white;
+}
+.quote {
+    background-image:url("../images/qBackground.jpg");
+    background-size: cover;
+    height: 500px;
+    padding: 80px;
+}
